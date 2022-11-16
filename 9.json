@@ -1,0 +1,54 @@
+{
+  "name": "Miss Ts NFTs #9",
+  "symbol": "MT",
+  "description": "Miss T, a Scary Teacher who has been threatening kids",
+  "seller_fee_basis_points": 1000,
+  "image": "9.gif",
+  "external_url": "https://misstsnfts.xyz/",
+  "edition": 9,
+  "attributes": [
+    {
+      "trait_type": "BG",
+      "value": "14_3"
+    },
+    {
+      "trait_type": "Skin",
+      "value": "9_2"
+    },
+    {
+      "trait_type": "Hair and Headwear",
+      "value": "2_2"
+    },
+    {
+      "trait_type": "Clothes",
+      "value": "4_2"
+    },
+    {
+      "trait_type": "Ear Ring",
+      "value": "6"
+    },
+    {
+      "trait_type": "Eyewear Eyes and faces",
+      "value": "12_2"
+    },
+    {
+      "trait_type": "Props",
+      "value": "10"
+    }
+  ],
+  "properties": {
+    "files": [
+      {
+        "uri": "9.gif",
+        "type": "image/gif"
+      }
+    ],
+    "category": "image",
+    "creators": [
+      {
+        "address": "Ca98MPfLWgK7q3wUtemwA8moP49t6dMBnyEUUU2J1rEN",
+        "share": 100
+      }
+    ]
+  }
+}
